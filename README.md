@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Omkar Srinivasa</h1>
 <h3 align="left">Frontend developer</h3>
-<h3 align="left">Proficient in JavaScript, React, Next.js, tailwind etc... Plus modern libraries and frameworks.</h3>
+<h3 align="left">Proficient in JavaScript, React, tailwind etc... Plus modern libraries and frameworks.</h3>
 
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
